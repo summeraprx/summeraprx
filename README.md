@@ -39,7 +39,7 @@ Collected and analyzed Instagram data from across Seoul to study the relationshi
 
 ## 🤖 AI Tools
 
-<img src="https://cdn.simpleicons.org/claude/D97757" height="48" />
+<img src="https://cdn.simpleicons.org/claude/D97757" height="48" /> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/FFFFFF" /><img src="https://cdn.simpleicons.org/ollama/000000" height="48" /></picture>
 
 ## 🛠️ Other Tools
 
