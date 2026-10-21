@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 
-**Hanyang University**, KR · M.S. in Smart City Engineering · *2024.09 – 2026.08*<br>
+**Hanyang University**, KR · M.S. in Smart City Engineering · *2024.03 – 2026.08*<br>
 **Chiang Mai University**, TH · B.Eng. in Civil Engineering · *2019 – 2023*
 
 ## 🔬 Research Internship & Activities
