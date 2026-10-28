@@ -35,7 +35,7 @@ Collected and analyzed Instagram data from across Seoul to study the relationshi
 
 ## 💻 Coding with
 
-<img src="https://skillicons.dev/icons?i=vscode,python" />
+<img src="https://skillicons.dev/icons?i=vscode,python,typescript" />
 
 ## 🤖 AI Tools
 
